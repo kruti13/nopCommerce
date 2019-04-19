@@ -1,0 +1,219 @@
+2019-04-17 16:18:39,632  INFO [main] nopCommerce:44 - ***************Launched Chrome Browser********************
+2019-04-17 16:18:40,821  INFO [main] nopCommerce:14 - ************* Started TC_LoginTest_001******************
+2019-04-17 16:18:41,808  INFO [main] nopCommerce:16 - *************Opened URL*************************
+2019-04-17 16:18:41,854  INFO [main] nopCommerce:19 - ***************Providing login details********************
+2019-04-17 16:18:44,987  INFO [main] nopCommerce:23 - ***************Logged in********************
+2019-04-17 16:18:45,006  INFO [main] nopCommerce:27 - ***************Login page validation********************
+2019-04-17 16:18:45,026  INFO [main] nopCommerce:31 - ***************Login successful********************
+2019-04-17 16:18:45,029  INFO [main] nopCommerce:42 - **************Completed TC_LoginTest_001*****************
+2019-04-17 16:18:45,055  INFO [main] nopCommerce:68 - ***************Browser closed********************
+2019-04-17 16:18:47,947  INFO [main] nopCommerce:44 - ***************Launched Chrome Browser********************
+2019-04-17 16:18:49,901  INFO [main] nopCommerce:18 - ************* Started TC_LoginDDT_002******************
+2019-04-17 16:18:50,972  INFO [main] nopCommerce:20 - *************Opened URL*************************
+2019-04-17 16:18:50,973  INFO [main] nopCommerce:23 - ***************Providing login details********************
+2019-04-17 16:18:53,865  INFO [main] nopCommerce:30 - ***************Login page validation********************
+2019-04-17 16:18:53,877  INFO [main] nopCommerce:34 - ***************Login successful********************
+2019-04-17 16:18:53,878  INFO [main] nopCommerce:45 - **************Completed TC_LoginDDT_002*****************
+2019-04-17 16:18:53,889  INFO [main] nopCommerce:18 - ************* Started TC_LoginDDT_002******************
+2019-04-17 16:18:55,427  INFO [main] nopCommerce:20 - *************Opened URL*************************
+2019-04-17 16:18:55,428  INFO [main] nopCommerce:23 - ***************Providing login details********************
+2019-04-17 16:18:55,585  INFO [main] nopCommerce:18 - ************* Started TC_LoginDDT_002******************
+2019-04-17 16:18:57,147  INFO [main] nopCommerce:20 - *************Opened URL*************************
+2019-04-17 16:18:57,151  INFO [main] nopCommerce:23 - ***************Providing login details********************
+2019-04-17 16:18:57,245  INFO [main] nopCommerce:18 - ************* Started TC_LoginDDT_002******************
+2019-04-17 16:18:59,373  INFO [main] nopCommerce:20 - *************Opened URL*************************
+2019-04-17 16:18:59,375  INFO [main] nopCommerce:23 - ***************Providing login details********************
+2019-04-17 16:18:59,416  INFO [main] nopCommerce:68 - ***************Browser closed********************
+2019-04-17 16:19:02,229  INFO [main] nopCommerce:44 - ***************Launched Chrome Browser********************
+2019-04-17 16:19:03,407  INFO [main] nopCommerce:17 - ************* Started TC_AddCustomerTest_003******************
+2019-04-17 16:19:04,514  INFO [main] nopCommerce:19 - *************Opened URL*************************
+2019-04-17 16:19:04,515  INFO [main] nopCommerce:22 - ***************Providing login details********************
+2019-04-17 16:19:07,492  INFO [main] nopCommerce:26 - *************** Logged in ********************
+2019-04-17 16:19:07,493  INFO [main] nopCommerce:28 - ************* Add New Customer Test begins***********************
+2019-04-17 16:19:09,913  INFO [main] nopCommerce:35 - *************** Adding customer details ********************
+2019-04-17 16:19:15,929  INFO [main] nopCommerce:55 - *************** Customer details saved********************
+2019-04-17 16:19:15,929  INFO [main] nopCommerce:60 - ***********Add New Customer Page validation test **************************************
+2019-04-17 16:19:16,182  INFO [main] nopCommerce:64 - ********Customer added successfully***************
+2019-04-17 16:19:16,182  INFO [main] nopCommerce:74 - ************* Completed TC_AddCustomerTest_003******************
+2019-04-17 16:19:16,186  INFO [main] nopCommerce:68 - ***************Browser closed********************
+2019-04-17 16:19:18,565  INFO [main] nopCommerce:51 - ***************Launched IE Browser********************
+2019-04-17 16:19:18,590  INFO [main] nopCommerce:14 - ************* Started TC_LoginTest_001******************
+2019-04-17 16:19:19,734  INFO [main] nopCommerce:16 - *************Opened URL*************************
+2019-04-17 16:19:19,734  INFO [main] nopCommerce:19 - ***************Providing login details********************
+2019-04-17 16:19:24,322  INFO [main] nopCommerce:23 - ***************Logged in********************
+2019-04-17 16:19:24,348  INFO [main] nopCommerce:27 - ***************Login page validation********************
+2019-04-17 16:19:24,395  INFO [main] nopCommerce:31 - ***************Login successful********************
+2019-04-17 16:19:24,396  INFO [main] nopCommerce:42 - **************Completed TC_LoginTest_001*****************
+2019-04-17 16:19:24,398  INFO [main] nopCommerce:68 - ***************Browser closed********************
+2019-04-17 16:19:26,543  INFO [main] nopCommerce:51 - ***************Launched IE Browser********************
+2019-04-17 16:19:26,724  INFO [main] nopCommerce:18 - ************* Started TC_LoginDDT_002******************
+2019-04-17 16:19:27,730  INFO [main] nopCommerce:20 - *************Opened URL*************************
+2019-04-17 16:19:27,730  INFO [main] nopCommerce:23 - ***************Providing login details********************
+2019-04-17 16:19:32,248  INFO [main] nopCommerce:30 - ***************Login page validation********************
+2019-04-17 16:19:32,298  INFO [main] nopCommerce:34 - ***************Login successful********************
+2019-04-17 16:19:32,299  INFO [main] nopCommerce:45 - **************Completed TC_LoginDDT_002*****************
+2019-04-17 16:19:32,306  INFO [main] nopCommerce:18 - ************* Started TC_LoginDDT_002******************
+2019-04-17 16:19:34,328  INFO [main] nopCommerce:20 - *************Opened URL*************************
+2019-04-17 16:19:34,329  INFO [main] nopCommerce:23 - ***************Providing login details********************
+2019-04-17 16:19:34,894  INFO [main] nopCommerce:18 - ************* Started TC_LoginDDT_002******************
+2019-04-17 16:19:36,736  INFO [main] nopCommerce:20 - *************Opened URL*************************
+2019-04-17 16:19:36,736  INFO [main] nopCommerce:23 - ***************Providing login details********************
+2019-04-17 16:19:37,096  INFO [main] nopCommerce:18 - ************* Started TC_LoginDDT_002******************
+2019-04-17 16:19:39,006  INFO [main] nopCommerce:20 - *************Opened URL*************************
+2019-04-17 16:19:39,007  INFO [main] nopCommerce:23 - ***************Providing login details********************
+2019-04-17 16:19:39,549  INFO [main] nopCommerce:68 - ***************Browser closed********************
+2019-04-17 16:19:41,466  INFO [main] nopCommerce:51 - ***************Launched IE Browser********************
+2019-04-17 16:19:41,488  INFO [main] nopCommerce:17 - ************* Started TC_AddCustomerTest_003******************
+2019-04-17 16:19:42,541  INFO [main] nopCommerce:19 - *************Opened URL*************************
+2019-04-17 16:19:42,541  INFO [main] nopCommerce:22 - ***************Providing login details********************
+2019-04-17 16:19:47,191  INFO [main] nopCommerce:26 - *************** Logged in ********************
+2019-04-17 16:19:47,191  INFO [main] nopCommerce:28 - ************* Add New Customer Test begins***********************
+2019-04-17 16:19:52,280  INFO [main] nopCommerce:35 - *************** Adding customer details ********************
+2019-04-17 16:20:08,380  INFO [main] nopCommerce:55 - *************** Customer details saved********************
+2019-04-17 16:20:08,380  INFO [main] nopCommerce:60 - ***********Add New Customer Page validation test **************************************
+2019-04-17 16:20:09,095  INFO [main] nopCommerce:64 - ********Customer added successfully***************
+2019-04-17 16:20:09,095  INFO [main] nopCommerce:74 - ************* Completed TC_AddCustomerTest_003******************
+2019-04-17 16:20:09,098  INFO [main] nopCommerce:68 - ***************Browser closed********************
+2019-04-17 16:20:14,625  INFO [main] nopCommerce:58 - ***************Launched Firefox Browser********************
+2019-04-17 16:20:14,900  INFO [main] nopCommerce:14 - ************* Started TC_LoginTest_001******************
+2019-04-17 16:20:16,505  INFO [main] nopCommerce:16 - *************Opened URL*************************
+2019-04-17 16:20:16,506  INFO [main] nopCommerce:19 - ***************Providing login details********************
+2019-04-17 16:20:19,333  INFO [main] nopCommerce:23 - ***************Logged in********************
+2019-04-17 16:20:19,338  INFO [main] nopCommerce:27 - ***************Login page validation********************
+2019-04-17 16:20:19,348  INFO [main] nopCommerce:31 - ***************Login successful********************
+2019-04-17 16:20:19,348  INFO [main] nopCommerce:42 - **************Completed TC_LoginTest_001*****************
+2019-04-17 16:20:19,350  INFO [main] nopCommerce:68 - ***************Browser closed********************
+2019-04-17 16:20:27,484  INFO [main] nopCommerce:58 - ***************Launched Firefox Browser********************
+2019-04-17 16:20:27,952  INFO [main] nopCommerce:18 - ************* Started TC_LoginDDT_002******************
+2019-04-17 16:20:29,696  INFO [main] nopCommerce:20 - *************Opened URL*************************
+2019-04-17 16:20:29,697  INFO [main] nopCommerce:23 - ***************Providing login details********************
+2019-04-17 16:20:33,389  INFO [main] nopCommerce:30 - ***************Login page validation********************
+2019-04-17 16:20:33,397  INFO [main] nopCommerce:34 - ***************Login successful********************
+2019-04-17 16:20:33,398  INFO [main] nopCommerce:45 - **************Completed TC_LoginDDT_002*****************
+2019-04-17 16:20:33,405  INFO [main] nopCommerce:18 - ************* Started TC_LoginDDT_002******************
+2019-04-17 16:20:35,340  INFO [main] nopCommerce:20 - *************Opened URL*************************
+2019-04-17 16:20:35,341  INFO [main] nopCommerce:23 - ***************Providing login details********************
+2019-04-17 16:20:35,410  INFO [main] nopCommerce:18 - ************* Started TC_LoginDDT_002******************
+2019-04-17 16:20:37,506  INFO [main] nopCommerce:20 - *************Opened URL*************************
+2019-04-17 16:20:37,507  INFO [main] nopCommerce:23 - ***************Providing login details********************
+2019-04-17 16:20:37,565  INFO [main] nopCommerce:18 - ************* Started TC_LoginDDT_002******************
+2019-04-17 16:20:39,823  INFO [main] nopCommerce:20 - *************Opened URL*************************
+2019-04-17 16:20:39,824  INFO [main] nopCommerce:23 - ***************Providing login details********************
+2019-04-17 16:20:39,884  INFO [main] nopCommerce:68 - ***************Browser closed********************
+2019-04-17 16:20:47,539  INFO [main] nopCommerce:58 - ***************Launched Firefox Browser********************
+2019-04-17 16:20:47,828  INFO [main] nopCommerce:17 - ************* Started TC_AddCustomerTest_003******************
+2019-04-17 16:20:49,606  INFO [main] nopCommerce:19 - *************Opened URL*************************
+2019-04-17 16:20:49,606  INFO [main] nopCommerce:22 - ***************Providing login details********************
+2019-04-17 16:20:52,693  INFO [main] nopCommerce:26 - *************** Logged in ********************
+2019-04-17 16:20:52,694  INFO [main] nopCommerce:28 - ************* Add New Customer Test begins***********************
+2019-04-17 16:20:55,972  INFO [main] nopCommerce:35 - *************** Adding customer details ********************
+2019-04-17 16:21:02,597  INFO [main] nopCommerce:55 - *************** Customer details saved********************
+2019-04-17 16:21:02,598  INFO [main] nopCommerce:60 - ***********Add New Customer Page validation test **************************************
+2019-04-17 16:21:03,299  INFO [main] nopCommerce:64 - ********Customer added successfully***************
+2019-04-17 16:21:03,299  INFO [main] nopCommerce:74 - ************* Completed TC_AddCustomerTest_003******************
+2019-04-17 16:21:03,301  INFO [main] nopCommerce:68 - ***************Browser closed********************
+2019-04-18 18:43:09,835  INFO [main] nopCommerce:44 - ***************Launched Chrome Browser********************
+2019-04-18 18:43:11,024  INFO [main] nopCommerce:14 - ************* Started TC_LoginTest_001******************
+2019-04-18 18:43:40,641  INFO [main] nopCommerce:16 - *************Opened URL*************************
+2019-04-18 18:43:40,675  INFO [main] nopCommerce:19 - ***************Providing login details********************
+2019-04-18 18:43:53,392  INFO [main] nopCommerce:23 - ***************Logged in********************
+2019-04-18 18:43:53,460  INFO [main] nopCommerce:27 - ***************Login page validation********************
+2019-04-18 18:43:53,477  INFO [main] nopCommerce:31 - ***************Login successful********************
+2019-04-18 18:43:53,480  INFO [main] nopCommerce:42 - **************Completed TC_LoginTest_001*****************
+2019-04-18 18:43:53,510  INFO [main] nopCommerce:68 - ***************Browser closed********************
+2019-04-18 18:43:56,398  INFO [main] nopCommerce:44 - ***************Launched Chrome Browser********************
+2019-04-18 18:43:57,593  INFO [main] nopCommerce:17 - ************* Started TC_AddCustomerTest_003******************
+2019-04-18 18:43:58,926  INFO [main] nopCommerce:19 - *************Opened URL*************************
+2019-04-18 18:43:58,927  INFO [main] nopCommerce:22 - ***************Providing login details********************
+2019-04-18 18:44:02,190  INFO [main] nopCommerce:26 - *************** Logged in ********************
+2019-04-18 18:44:02,190  INFO [main] nopCommerce:28 - ************* Add New Customer Test begins***********************
+2019-04-18 18:44:09,683  INFO [main] nopCommerce:35 - *************** Adding customer details ********************
+2019-04-18 18:44:16,234  INFO [main] nopCommerce:55 - *************** Customer details saved********************
+2019-04-18 18:44:16,235  INFO [main] nopCommerce:60 - ***********Add New Customer Page validation test **************************************
+2019-04-18 18:44:16,611  INFO [main] nopCommerce:64 - ********Customer added successfully***************
+2019-04-18 18:44:16,612  INFO [main] nopCommerce:74 - ************* Completed TC_AddCustomerTest_003******************
+2019-04-18 18:44:16,613  INFO [main] nopCommerce:68 - ***************Browser closed********************
+2019-04-18 19:03:39,754  INFO [main] nopCommerce:44 - ***************Launched Chrome Browser********************
+2019-04-18 19:03:41,011  INFO [main] nopCommerce:14 - ************* Started TC_LoginTest_001******************
+2019-04-18 19:03:42,446  INFO [main] nopCommerce:16 - *************Opened URL*************************
+2019-04-18 19:03:42,481  INFO [main] nopCommerce:19 - ***************Providing login details********************
+2019-04-18 19:03:45,600  INFO [main] nopCommerce:23 - ***************Logged in********************
+2019-04-18 19:03:45,623  INFO [main] nopCommerce:27 - ***************Login page validation********************
+2019-04-18 19:03:45,652  INFO [main] nopCommerce:31 - ***************Login successful********************
+2019-04-18 19:03:45,656  INFO [main] nopCommerce:42 - **************Completed TC_LoginTest_001*****************
+2019-04-18 19:03:45,703  INFO [main] nopCommerce:68 - ***************Browser closed********************
+2019-04-18 19:03:50,339  INFO [main] nopCommerce:44 - ***************Launched Chrome Browser********************
+2019-04-18 19:03:51,582  INFO [main] nopCommerce:17 - ************* Started TC_AddCustomerTest_003******************
+2019-04-18 19:03:52,828  INFO [main] nopCommerce:19 - *************Opened URL*************************
+2019-04-18 19:03:52,829  INFO [main] nopCommerce:22 - ***************Providing login details********************
+2019-04-18 19:03:55,975  INFO [main] nopCommerce:26 - *************** Logged in ********************
+2019-04-18 19:03:55,975  INFO [main] nopCommerce:28 - ************* Add New Customer Test begins***********************
+2019-04-18 19:04:00,919  INFO [main] nopCommerce:35 - *************** Adding customer details ********************
+2019-04-18 19:04:07,580  INFO [main] nopCommerce:55 - *************** Customer details saved********************
+2019-04-18 19:04:07,582  INFO [main] nopCommerce:60 - ***********Add New Customer Page validation test **************************************
+2019-04-18 19:04:07,880  INFO [main] nopCommerce:64 - ********Customer added successfully***************
+2019-04-18 19:04:07,881  INFO [main] nopCommerce:74 - ************* Completed TC_AddCustomerTest_003******************
+2019-04-18 19:04:07,883  INFO [main] nopCommerce:68 - ***************Browser closed********************
+2019-04-18 21:27:27,281  INFO [main] nopCommerce:44 - ***************Launched Chrome Browser********************
+2019-04-18 21:27:28,444  INFO [main] nopCommerce:14 - ************* Started TC_LoginTest_001******************
+2019-04-18 21:27:56,076  INFO [main] nopCommerce:16 - *************Opened URL*************************
+2019-04-18 21:27:56,141  INFO [main] nopCommerce:19 - ***************Providing login details********************
+2019-04-18 21:28:08,636  INFO [main] nopCommerce:23 - ***************Logged in********************
+2019-04-18 21:28:08,686  INFO [main] nopCommerce:27 - ***************Login page validation********************
+2019-04-18 21:28:08,713  INFO [main] nopCommerce:31 - ***************Login successful********************
+2019-04-18 21:28:08,717  INFO [main] nopCommerce:42 - **************Completed TC_LoginTest_001*****************
+2019-04-18 21:28:08,738  INFO [main] nopCommerce:68 - ***************Browser closed********************
+2019-04-18 21:28:13,229  INFO [main] nopCommerce:44 - ***************Launched Chrome Browser********************
+2019-04-18 21:28:14,370  INFO [main] nopCommerce:17 - ************* Started TC_AddCustomerTest_003******************
+2019-04-18 21:28:15,676  INFO [main] nopCommerce:19 - *************Opened URL*************************
+2019-04-18 21:28:15,677  INFO [main] nopCommerce:22 - ***************Providing login details********************
+2019-04-18 21:28:19,415  INFO [main] nopCommerce:26 - *************** Logged in ********************
+2019-04-18 21:28:19,416  INFO [main] nopCommerce:28 - ************* Add New Customer Test begins***********************
+2019-04-18 21:28:26,859  INFO [main] nopCommerce:35 - *************** Adding customer details ********************
+2019-04-18 21:28:33,503  INFO [main] nopCommerce:55 - *************** Customer details saved********************
+2019-04-18 21:28:33,505  INFO [main] nopCommerce:60 - ***********Add New Customer Page validation test **************************************
+2019-04-18 21:28:33,796  INFO [main] nopCommerce:64 - ********Customer added successfully***************
+2019-04-18 21:28:33,796  INFO [main] nopCommerce:74 - ************* Completed TC_AddCustomerTest_003******************
+2019-04-18 21:28:33,798  INFO [main] nopCommerce:68 - ***************Browser closed********************
+2019-04-18 22:21:05,189  INFO [main] nopCommerce:44 - ***************Launched Chrome Browser********************
+2019-04-18 22:21:06,358  INFO [main] nopCommerce:14 - ************* Started TC_LoginTest_001******************
+2019-04-18 22:21:36,296  INFO [main] nopCommerce:16 - *************Opened URL*************************
+2019-04-18 22:21:36,331  INFO [main] nopCommerce:19 - ***************Providing login details********************
+2019-04-18 22:21:49,084  INFO [main] nopCommerce:23 - ***************Logged in********************
+2019-04-18 22:21:49,103  INFO [main] nopCommerce:27 - ***************Login page validation********************
+2019-04-18 22:21:49,122  INFO [main] nopCommerce:31 - ***************Login successful********************
+2019-04-18 22:21:49,125  INFO [main] nopCommerce:42 - **************Completed TC_LoginTest_001*****************
+2019-04-18 22:21:49,156  INFO [main] nopCommerce:68 - ***************Browser closed********************
+2019-04-18 22:21:54,598  INFO [main] nopCommerce:44 - ***************Launched Chrome Browser********************
+2019-04-18 22:21:55,739  INFO [main] nopCommerce:17 - ************* Started TC_AddCustomerTest_003******************
+2019-04-18 22:21:56,939  INFO [main] nopCommerce:19 - *************Opened URL*************************
+2019-04-18 22:21:56,940  INFO [main] nopCommerce:22 - ***************Providing login details********************
+2019-04-18 22:22:00,067  INFO [main] nopCommerce:26 - *************** Logged in ********************
+2019-04-18 22:22:00,068  INFO [main] nopCommerce:28 - ************* Add New Customer Test begins***********************
+2019-04-18 22:22:07,363  INFO [main] nopCommerce:35 - *************** Adding customer details ********************
+2019-04-18 22:22:13,277  INFO [main] nopCommerce:55 - *************** Customer details saved********************
+2019-04-18 22:22:13,278  INFO [main] nopCommerce:60 - ***********Add New Customer Page validation test **************************************
+2019-04-18 22:22:13,555  INFO [main] nopCommerce:64 - ********Customer added successfully***************
+2019-04-18 22:22:13,555  INFO [main] nopCommerce:74 - ************* Completed TC_AddCustomerTest_003******************
+2019-04-18 22:22:13,556  INFO [main] nopCommerce:68 - ***************Browser closed********************
+2019-04-18 22:38:52,938  INFO [main] nopCommerce:44 - ***************Launched Chrome Browser********************
+2019-04-18 22:38:54,127  INFO [main] nopCommerce:14 - ************* Started TC_LoginTest_001******************
+2019-04-18 22:38:56,367  INFO [main] nopCommerce:16 - *************Opened URL*************************
+2019-04-18 22:38:56,424  INFO [main] nopCommerce:19 - ***************Providing login details********************
+2019-04-18 22:38:59,484  INFO [main] nopCommerce:23 - ***************Logged in********************
+2019-04-18 22:38:59,526  INFO [main] nopCommerce:27 - ***************Login page validation********************
+2019-04-18 22:38:59,540  INFO [main] nopCommerce:31 - ***************Login successful********************
+2019-04-18 22:38:59,543  INFO [main] nopCommerce:42 - **************Completed TC_LoginTest_001*****************
+2019-04-18 22:38:59,560  INFO [main] nopCommerce:68 - ***************Browser closed********************
+2019-04-18 22:39:03,517  INFO [main] nopCommerce:44 - ***************Launched Chrome Browser********************
+2019-04-18 22:39:04,647  INFO [main] nopCommerce:17 - ************* Started TC_AddCustomerTest_003******************
+2019-04-18 22:39:05,952  INFO [main] nopCommerce:19 - *************Opened URL*************************
+2019-04-18 22:39:05,954  INFO [main] nopCommerce:22 - ***************Providing login details********************
+2019-04-18 22:39:08,851  INFO [main] nopCommerce:26 - *************** Logged in ********************
+2019-04-18 22:39:08,853  INFO [main] nopCommerce:28 - ************* Add New Customer Test begins***********************
+2019-04-18 22:39:11,435  INFO [main] nopCommerce:35 - *************** Adding customer details ********************
+2019-04-18 22:39:17,876  INFO [main] nopCommerce:55 - *************** Customer details saved********************
+2019-04-18 22:39:17,877  INFO [main] nopCommerce:60 - ***********Add New Customer Page validation test **************************************
+2019-04-18 22:39:18,227  INFO [main] nopCommerce:64 - ********Customer added successfully***************
+2019-04-18 22:39:18,227  INFO [main] nopCommerce:74 - ************* Completed TC_AddCustomerTest_003******************
+2019-04-18 22:39:18,229  INFO [main] nopCommerce:68 - ***************Browser closed********************
