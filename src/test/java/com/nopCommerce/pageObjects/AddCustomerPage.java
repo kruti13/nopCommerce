@@ -16,6 +16,7 @@ public class AddCustomerPage {
 		PageFactory.initElements(rdriver, this);
 	}
 	
+	By lnkCustomeritem = By.xpath("//i[@class='fa fa-user']");
 	By lnkCustomermenu = By.linkText("Customers");
 	By lnkCustomermenu_item = By.xpath("/html/body/div[3]/div[2]/div/ul/li[4]/ul/li[1]/a");
 	By btnAddnew = By.xpath("/html/body/div[3]/div[3]/div/form[1]/div[1]/div/a");
@@ -51,6 +52,12 @@ public class AddCustomerPage {
 	By rdActiveStatus = By.xpath("//input[@id='Active']");*/
 	
 	By btnSave = By.xpath("//button[@name='save']");
+	
+	public void setCustomerItem()
+	{
+		ldriver.findElement(lnkCustomeritem).click();
+	}
+	
 	
 	public void clkCustomermenu()
 	{

@@ -54,7 +54,6 @@ public class TC_AddCustomerTest_003 extends BaseClass
 	
 	logger.info("*************** Customer details saved********************");
 	
-	
 		
 	//Validation
 	logger.info("***********Add New Customer Page validation test **************************************");

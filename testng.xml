@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-
- <!--  <suite name="nopCommerceSuite" thread-count="2">   -->   
- <suite name="nopCommerceSuite"  thread-count="2">
+<suite name="nopCommerceSuite" thread-count="2">      
+<!-- <suite name="nopCommerceSuite" parallel="tests" thread-count="2">	-->
 	<listeners>
 		<listener class-name="com.nopCommerce.utilities.Reporting" />
 
@@ -11,19 +10,30 @@
 	<test name="Chrometest">
 		<parameter name="browser" value="chrome" />
 		<classes>
-			 <class name="com.nopCommerce.testCases.TC_LoginTest_001" />    
-		<!--  	<class name="com.nopCommerce.testCases.TC_LoginDDT_002" />  -->
-			<class name="com.nopCommerce.testCases.TC_AddCustomerTest_003" />
+		  <!--  	<class name="com.nopCommerce.testCases.TC_LoginTest_001" />    
+		  	<class name="com.nopCommerce.testCases.TC_LoginDDT_002" />  
+			<class name="com.nopCommerce.testCases.TC_AddCustomerTest_003" />	
+			<class name="com.nopCommerce.testCases.TC_AddCustomerDDT_003a" /> -->
+			<class name = "com.nopCommerce.testCases.TC_SearchByEmail_004"/>	
+		<!--	<class name = "com.nopCommerce.testCases.TC_SearchByFname_005"/>
+			<class name = "com.nopCommerce.testCases.TC_SearchByLname_006"/>	
+			<class name = "com.nopCommerce.testCases.TC_SearchByCustRole_008"/> -->
 			
 		</classes>
 	</test>
 
- <!--  <test name="IEtest">
+  <!--   <test name="IEtest">
 		<parameter name="browser" value="ie" />
 		<classes>
-			 <class name="com.nopCommerce.testCases.TC_LoginTest_001" />    
-			<class name="com.nopCommerce.testCases.TC_LoginDDT_002" />  
+			<class name="com.nopCommerce.testCases.TC_LoginTest_001" />    
+		  	<class name="com.nopCommerce.testCases.TC_LoginDDT_002" />  
 			<class name="com.nopCommerce.testCases.TC_AddCustomerTest_003" />
+			<class name = "com.nopCommerce.testCases.TC_SearchByEmail_004"/>	
+			<class name = "com.nopCommerce.testCases.TC_SearchByFname_005"/>
+			<class name = "com.nopCommerce.testCases.TC_SearchByLname_006"/>
+			<class name = "com.nopCommerce.testCases.TC_SearchByCompany_007"/>	
+			<class name = "com.nopCommerce.testCases.TC_SearchByCustRole_008"/>
+			
 		</classes>
 	</test>     
 
@@ -31,8 +41,13 @@
 		<parameter name="browser" value="firefox" />
 		<classes>
 			<class name="com.nopCommerce.testCases.TC_LoginTest_001" />    
-			<class name="com.nopCommerce.testCases.TC_LoginDDT_002" />  
+		  	<class name="com.nopCommerce.testCases.TC_LoginDDT_002" />  
 			<class name="com.nopCommerce.testCases.TC_AddCustomerTest_003" />
+			<class name = "com.nopCommerce.testCases.TC_SearchByEmail_004"/>	
+			<class name = "com.nopCommerce.testCases.TC_SearchByFname_005"/>
+			<class name = "com.nopCommerce.testCases.TC_SearchByLname_006"/>
+			<class name = "com.nopCommerce.testCases.TC_SearchByCompany_007"/>	
+			<class name = "com.nopCommerce.testCases.TC_SearchByCustRole_008"/>
 		</classes>
-	</test>  -->      
+	</test>        -->
 </suite> 
